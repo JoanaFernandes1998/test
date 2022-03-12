@@ -1,0 +1,24 @@
+body{
+
+	background-color: white;
+
+}
+
+h1, h2, h3, h4{
+	color: darkorange;
+
+}
+
+h1{
+	background-color: navajowhite;
+}
+
+p{
+  font-style: normal;
+}
+
+ol{
+	padding: 2px 25px;
+	list-style-type: circle;
+	font-weight: bold;
+}
